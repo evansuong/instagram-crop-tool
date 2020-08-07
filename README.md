@@ -1,15 +1,10 @@
 snap is a webapp created by me that crops images into a grid to to give one's instagram feed a unique look. Grid dimensions range from 1x1 to 5x3 as well as a 1x10 option for the instagram slideshow feature. Grids can be downloaded as a collection of photos as png or jpg files, then uploaded to instagram later on.
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+\n
+\n
+\n
+\n
+\n
+\n
 BOILERPLATE README FROM REACT:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
